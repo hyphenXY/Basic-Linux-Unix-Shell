@@ -1,4 +1,4 @@
-# OS_Assignment_1
+# Linux Shell
 
 Created a Shell using Processes and Threads
 
